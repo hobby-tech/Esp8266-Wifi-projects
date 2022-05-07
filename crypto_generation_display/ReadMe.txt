@@ -10,6 +10,8 @@ Author: Crypto Generation
   Recommendation :
   I recommend to use Pre-compiled >> crypto_generation_display_d1_mini.bin
   
+  Download 3D File of Casing >> https://1drv.ms/u/s!ApRWVuHGtjK7frNUoBHhCdwPMtU
+  
   
  Download ESPRESSIF ESP flash tool: https://www.espressif.com/sites/default/files/tools/flash_download_tool_3.9.2.zip
   ------------------------------------------------------------------------------
