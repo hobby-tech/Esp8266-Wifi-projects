@@ -4,7 +4,7 @@ Author: Crypto Generation
   File: crypto_generation_display.ino
   ------------------------------------------------------------------------------
   Description: 
-  Code for YouTube video (https://youtube.com/shorts/Oxa0HVVbBIo?feature=share) demonstrating how to use the coingecko API to fetch the 
+  Code for YouTube video (https://youtube.com/shorts/tvdtGu74vls?feature=share) demonstrating how to use the coingecko API to fetch the 
   price of Multipe cryptocurrency and display it on a 0.96" OLED over I2C.
   ------------------------------------------------------------------------------
   Recommendation :
